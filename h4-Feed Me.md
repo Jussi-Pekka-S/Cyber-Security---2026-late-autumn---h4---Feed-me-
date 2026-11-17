@@ -54,14 +54,16 @@ What are the benefits and downsides of following feeds with a reader, compared t
 f) Port scan. How can criminals know what services your employer has?
 Disconnect your computer from the internet while doing the test (after you have installed the required software). 
 Do the test inside your virtual machine.
-
 Install nmap port scanner
+
 <img width="768" height="1024" alt="ccfb7691-f9bd-4444-a715-013a21527607" src="https://github.com/user-attachments/assets/ee690fea-2113-41e1-8b03-4801e391a577" />
 
 Disconnect from the internet. Show that 'ping 8.8.8.8' stops working when internet is disconnected.
+
 <img width="768" height="1024" alt="9475e450-e11e-4822-a3a2-dfaa853b2ff3" src="https://github.com/user-attachments/assets/239dfbf2-3c8a-4487-9d1f-d6a3705b1efc" />
 
 Port scan your own computer. Use "localhost" as the address.
+
 <img width="768" height="1024" alt="61912a20-450d-4f3f-916e-2594f47c1c9b" src="https://github.com/user-attachments/assets/acd57ea1-c1bf-4506-8738-80368f6b800a" />
 
 
